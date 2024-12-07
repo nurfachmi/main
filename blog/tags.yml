@@ -1,19 +1,9 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+programming:
+  label: Programming
+  permalink: /programming
+  description: Topik seputar pemrograman, membahas berita terkini hingga review kegiatan ngoding sehari-hari.
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
-
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+oss:
+  label: open-source software
+  permalink: /open-source-software
+  description: Topik tentang Open-Source Softwares, dari instalasi, pemakaian sampai pembahasan umum.

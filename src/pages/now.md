@@ -6,11 +6,11 @@ hide_table_of_contents: false
 
 # What Now?
 
-Ini adalah halaman yang berbicara tentang diri saya sendiri saat ini.
+Ini adalah halaman yang berbicara tentang diri saya sendiri saat ini dan bagian dari gerakan [nownownow](https://nownownow.com/about).
 
 ## Kehidupan Personal
 
-Masih berdomisili di Kabupaten Tangerang dan tinggal bahagia dengan seorang istri dan anak.
+Masih berdomisili di Kabupaten Tangerang, Banten - Indonesia dan tinggal bahagia dengan seorang istri dan anak.
 
 ## Karir
 
