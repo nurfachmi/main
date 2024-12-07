@@ -1,6 +1,6 @@
 ---
 title: Now
-description: my hello page description
+description: Apa yang saya kerjakan belakangan ini
 hide_table_of_contents: false
 ---
 

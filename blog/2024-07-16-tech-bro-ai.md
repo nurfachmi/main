@@ -2,7 +2,7 @@
 slug: tech-bro-vs-anak-seni-artificial-intelligence
 title: Tech Bro vs Anak Seni
 authors: reza
-tags: [hello, docusaurus]
+tags: [chatter]
 ---
 
 Bismillahirrahmanirrahim

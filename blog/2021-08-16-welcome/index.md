@@ -2,7 +2,7 @@
 slug: welcome
 title: Welcome
 authors: [reza]
-tags: [facebook, hello, docusaurus, hei, oss]
+tags: [chatter]
 ---
 
 :::tip
@@ -10,3 +10,5 @@ tags: [facebook, hello, docusaurus, hei, oss]
 Later I will write some
 
 :::
+
+<!-- truncate -->

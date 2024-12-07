@@ -7,3 +7,8 @@ oss:
   label: open-source software
   permalink: /open-source-software
   description: Topik tentang Open-Source Softwares, dari instalasi, pemakaian sampai pembahasan umum.
+
+chatter:
+  label: chatter
+  permalink: /chatter
+  description: Hanya menuangkan pikiran tentang apa saja yang sekiranya akan tumpah.
